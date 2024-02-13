@@ -84,7 +84,7 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=5s2zuatipddo&app=1aca0aa1-06e3-
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sid=5s3069oep2m5&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
 #EXTINF:-1 tvg-name="Discovery" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
-https://discovery-channel.blutv.com/blutv_discovery-channel_live/live.m3u8
+https://discoverychannel.blutv.com/blutv_discoverychannel_live/live.m3u8
 
 
 # * » Genel « * #
@@ -147,7 +147,7 @@ https://ythlsgo.onrender.com/video/OypUpUTYAHI.m3u8|User-Agent=Mozilla/5.0 (Linu
 #EXTINF:-1 tvg-name="Euro Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/640px-Eurosport_logo_%282001-2011%29.svg.png" group-title="Spor",Euro Sport
 https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="Euro Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/640px-Eurosport_logo_%282001-2011%29.svg.png" group-title="Spor",Euro Sport
+#EXTINF:-1 tvg-name="Euro Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/640px-Eurosport_logo_%282001-2011%29.svg.png" group-title="Spor",Euro Sport 2
 https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 
 #EXTINF:-1 tvg-name="GS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_GSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG" group-title="Spor",GS TV
