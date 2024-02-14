@@ -89,7 +89,11 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 #EXTINF:-1 tvg-name="DiscoveryID" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DiscoveryID" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DiscoveryID
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_14.m3u8
 
+#EXTINF:-1 tvg-name="DiscoveryTB" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DiscoveryTB" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DiscoveryTB
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
 
+#EXTINF:-1 tvg-name="Dmax2" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Dmax2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",Dmax2
+https://food-dlvr-ott.akamaized.net/primary/2/07543219680b429fa16f1f5796eda058/index_19.m3u8
 
 # * » Genel « * #
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://www.ecanlitvizle.video/logo/star-tv-izle-1.png" group-title="Genel",Star TV
