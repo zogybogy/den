@@ -86,8 +86,8 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sid=5s3069oep2m5&app=5a02c599-d17
 #EXTINF:-1 tvg-name="Discovery" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Discovery" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 
-#EXTINF:-1 tvg-name="Discovery2" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_Discovery2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",Discovery2
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
+#EXTINF:-1 tvg-name="DiscoveryID" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DiscoveryID" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DiscoveryID
+https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_14.m3u8
 
 
 
