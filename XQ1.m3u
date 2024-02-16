@@ -1,51 +1,132 @@
 #EXTM3U
-#EXTINF:-1,🔞 Erox
+#EXTINF:-1,tvg-id="Erox A" group-title="XXX",Erox A
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1,🔞 Eroxxx
+#EXTINF:-1,tvg-id="Eroxxx A" group-title="XXX",Eroxxx A
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1,🔞 Private
-http://146.59.54.163/356/playlist.m3u8
-#EXTINF:-1,🔞 Dorcel 
+#EXTINF:-1,tvg-id="Desire A" group-title="XXX",Desire A
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+
+#EXTINF:-1,tvg-id="Dorcel B" group-title="XXX",Dorcel B 
 http://146.59.54.163/345/index.m3u8
-#EXTINF:-1,🔞 Reality
-http://146.59.54.163/352/index.m3u8
-#EXTINF:-1,🔞 Olala
-http://146.59.54.163/350/index.m3u8
-#EXTINF:-1,🔞 Hustler
-http://146.59.54.163/349/index.m3u8
-#EXTINF:-1,🔞 Vivid Red
-http://cdnx1.plusx.tv:8880/361/mono.m3u8?token=65df4b105d30b4b9573333
-#EXTINF:-1,🔞 Hustler HD
-http://146.59.54.163/348/index.m3u8
-#EXTINF:-1,🔞 Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1,🔞 Penthouse 
-http://146.59.54.163/353/index.m3u8
-#EXTINF:-1,🔞 Babes
-http://146.59.54.163/354/index.m3u8
-#EXTINF:-1,🔞 Playboy+
-http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
-#EXTINF:-1,🔞 1
+#EXTINF:-1,tvg-id="CH1 B" group-title="XXX",CH1 B
 http://146.59.54.163/347/index.m3u8
-#EXTINF:-1,🔞 redlight
+#EXTINF:-1,tvg-id="Hustler B" group-title="XXX",Hustler HD B
+http://146.59.54.163/348/index.m3u8
+#EXTINF:-1,tvg-id="Hustler B" group-title="XXX",Hustler B
+http://146.59.54.163/349/index.m3u8
+#EXTINF:-1,tvg-id="Olala B" group-title="XXX",Olala B
+http://146.59.54.163/350/index.m3u8
+
+
+#EXTINF:-1,tvg-id="Reality B" group-title="XXX",Reality B
+http://146.59.54.163/352/index.m3u8
+#EXTINF:-1,tvg-id="Penthose B" group-title="XXX",Penthouse  B
+http://146.59.54.163/353/index.m3u8
+#EXTINF:-1,tvg-id="Babes B" group-title="XXX",Babes B
+http://146.59.54.163/354/index.m3u8
+
+#EXTINF:-1,tvg-id="Private B" group-title="XXX",Private B
+http://146.59.54.163/356/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Redlight B" group-title="XXX",Redlight B
 http://146.59.54.163/358/index.m3u8
-#EXTINF:-1,🔞 Dorcel2
+#EXTINF:-1,tvg-id="Dorcel2 B" group-title="XXX",Dorcel2 B
 http://146.59.54.163/359/index.m3u8
-#EXTINF:-1,🔞 Vividred
+
+#EXTINF:-1,tvg-id="Vivid Red B" group-title="XXX",Vividred B
 http://146.59.54.163/361/index.m3u8
-#EXTINF:-1,🔞 Exxxotica
+#EXTINF:-1,tvg-id="Exxxotica B" group-title="XXX",Exxxotica B
 http://146.59.54.163/362/index.m3u8
-#EXTINF:-1,🔞 XXL
+#EXTINF:-1,tvg-id="XXL B" group-title="XXX",XXL B
 http://146.59.54.163/363/index.m3u8
-#EXTINF:-1,🔞 XXL
-http://146.59.54.163/363/index.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="XXX",Penthouse Gold (1080p)
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="XXX",Playboy TV Latin America (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="XXX",Private TV HD (720p)
+
+#EXTINF:-1,Nedir B
+http://146.59.54.163/392/index.m3u8
+
+#EXTINF:-1,tvg-id="Vivid Red C" group-title="XXX",Vivid Red C
+http://cdnx1.plusx.tv:8880/361/mono.m3u8?token=65df4b105d30b4b9573333
+
+#EXTINF:-1,tvg-id="Brazzers D" group-title="XXX",Brazzers D
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,tvg-id="Playboy+ E" group-title="XXX",Playboy+ E
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
+
+#EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="XXX",Private TV F
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="XXX",Redlight HD (720p)
+#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="XXX",Redlight F
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Hustler.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="XXX",Hustler F
+https://cdn-main.lolokoko.tv/hustler.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="XXX",Penthouse G
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1, tvg-id="Redlight " group-title="XXX",Redlight G
+http://51.159.102.100/RedlightHD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="XXX",Playboy H
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! I
+http://31.148.48.15/O-la-la/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Super One  J" group-title="XXX",Super One J
+http://213.186.1.123:8000/XXX?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Dorcel2 J" group-title="XXX",Dorcel2 J
+http://213.186.1.123:8000/XXX%201?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Dorcel XXX J" group-title="XXX",Dorcel XXX J
+http://213.186.1.123:8000/XXX%202?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Hustler HD J" group-title="XXX",Hustler HD J
+http://213.186.1.123:8000/XXX%203?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Private HD J" group-title="XXX",Private HD J
+http://213.186.1.123:8000/XXX%204?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Erox J" group-title="XXX",Erox J
+http://213.186.1.123:8000/XXX%205?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Eroxxx J" group-title="XXX",Eroxxx J
+http://213.186.1.123:8000/XXX%206?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Redlight J" group-title="XXX",Redlight HD J
+http://213.186.1.123:8000/XXX%207?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Hustler J" group-title="XXX",Hustler J
+http://213.186.1.123:8000/XXX%208?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Duck J" group-title="XXX",Duck J
+http://213.186.1.123:8000/XXX%209?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="XXX 10 J" group-title="XXX",XXX 10 J
+http://213.186.1.123:8000/XXX%2010?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 tvg-id="Barely Legal J" group-title="XXX",Barely Legal J
+http://213.186.1.123:8000/XXX%2011?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+#EXTINF:-1 group-title="VOD J" ,000XXX J
+http://213.186.1.123:8000/000XXX?u=00:1A:79:20:C8:A3:p=001A7920C8A3
+
+#EXTINF:-1,tvg-id="Pornbox 1" group-title="XXX",Pornbox 1
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1,tvg-id="Pornbox 2" group-title="XXX",Pornbox 2
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1,tvg-id="Pornbox 3" group-title="XXX",Pornbox 3
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1,tvg-id="Pornbox 4" group-title="XXX",Pornbox 4
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+
+#EXTINF:-1 tvg-id="Hustler K" group-title="XXX",Hustler K
+http://93.155.227.38:80/m3u8/hustler.m3u8
+#EXTINF:-1 tvg-id="Private K" group-title="XXX",Private K
+http://93.155.227.38:80/m3u8/private.m3u8
+
+#EXTINF:-1 tvg-id="Hustler L" group-title="XXX",Hustler L
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PureTaboo M" group-title="XXX",PureTaboo M
+http://78.47.224.234/puretaboo/index.m3u8
+
+#EXTINF:-1,tvg-id="Playboy" group-title="XXX",Playboy
+http://138.59.177.34:8000/play/a01r/index.m3u8
+#EXTINF:-1,tvg-id="Sextreme" group-title="XXX",SexTream
+http://138.59.177.34:8000/play/a07g/index.m3u8
+#EXTINF:-1,tvg-id="Venus" group-title="XXX",Venus
+http://138.59.177.34:8000/play/a04h/index.m3u8
+
+#EXTINF:-1, tvg-id="Rus" group-title="XXX",Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
