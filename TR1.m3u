@@ -175,7 +175,7 @@ https://corsproxy.org/?https://cakal.click/yayint1.m3u8
 https://corsproxy.org/?https://cakal.click/yayint2.m3u8
 
 #EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="Spor",Spor Smart
-https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0&Referer=https://google.com/
+https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/1u01u91643201009.png" group-title="Spor",S SPORT
 https://corsproxy.org/?https://cakal.click/yayinss.m3u8
@@ -189,9 +189,18 @@ https://corsproxy.org/?https://cakal.click/yayin1.m3u8|User-Agent=Lavf53.32.100
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
 
+#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 3
+https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 4
+https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS Max" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-max-1-logo.png" group-title="Spor",beIN SPORTS Max
 https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8|User-Agent=Lavf53.32.100
 
+
+#EXTINF:-1 tvg-name="beIN SPORTS Max2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-max-1-logo.png" group-title="Spor",beIN SPORTS Max2
+https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8|User-Agent=Lavf53.32.100
 
 
 # * » Müzik « * #
